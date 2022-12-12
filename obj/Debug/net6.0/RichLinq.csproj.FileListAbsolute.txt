@@ -1,0 +1,15 @@
+C:\Users\Will\Desktop\C# Folder\Assignments\RichLinq\bin\Debug\net6.0\RichLinq.exe
+C:\Users\Will\Desktop\C# Folder\Assignments\RichLinq\bin\Debug\net6.0\RichLinq.deps.json
+C:\Users\Will\Desktop\C# Folder\Assignments\RichLinq\bin\Debug\net6.0\RichLinq.runtimeconfig.json
+C:\Users\Will\Desktop\C# Folder\Assignments\RichLinq\bin\Debug\net6.0\RichLinq.dll
+C:\Users\Will\Desktop\C# Folder\Assignments\RichLinq\bin\Debug\net6.0\RichLinq.pdb
+C:\Users\Will\Desktop\C# Folder\Assignments\RichLinq\obj\Debug\net6.0\RichLinq.csproj.AssemblyReference.cache
+C:\Users\Will\Desktop\C# Folder\Assignments\RichLinq\obj\Debug\net6.0\RichLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Will\Desktop\C# Folder\Assignments\RichLinq\obj\Debug\net6.0\RichLinq.AssemblyInfoInputs.cache
+C:\Users\Will\Desktop\C# Folder\Assignments\RichLinq\obj\Debug\net6.0\RichLinq.AssemblyInfo.cs
+C:\Users\Will\Desktop\C# Folder\Assignments\RichLinq\obj\Debug\net6.0\RichLinq.csproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\C# Folder\Assignments\RichLinq\obj\Debug\net6.0\RichLinq.dll
+C:\Users\Will\Desktop\C# Folder\Assignments\RichLinq\obj\Debug\net6.0\refint\RichLinq.dll
+C:\Users\Will\Desktop\C# Folder\Assignments\RichLinq\obj\Debug\net6.0\RichLinq.pdb
+C:\Users\Will\Desktop\C# Folder\Assignments\RichLinq\obj\Debug\net6.0\RichLinq.genruntimeconfig.cache
+C:\Users\Will\Desktop\C# Folder\Assignments\RichLinq\obj\Debug\net6.0\ref\RichLinq.dll
